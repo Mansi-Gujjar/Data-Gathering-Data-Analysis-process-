@@ -1,4 +1,4 @@
-📊 Data Gathering and File Handling in Python
+📊 # Data Gathering and File Handling in Python
 
 Hi there 👋
 This repository is a small but meaningful part of my learning path in Python and Data Analysis.
@@ -6,7 +6,7 @@ I’ve been experimenting with pandas, and data handling, and this repo is where
 
 This notebook demonstrates data gathering, the first and most important step in the Data Analysis process — where we collect, import, and prepare raw data from multiple file formats and sources for analysis
 
-# Data-Gathering-Data-Analysis-process-
+Data-Gathering-Data-Analysis-process-
 As Data Gathering is first step in Data Analysis process - In this we are working with csv files, json files, excel files, textfiles, html files, sql files ... we are importing and exporting both also fetching data from Api's and fetching data using web scraping.
 
 📂 data-gathering-and-file-handling
