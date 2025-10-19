@@ -10,25 +10,12 @@ This notebook demonstrates data gathering, the first and most important step in 
 As Data Gathering is first step in Data Analysis process - In this we are working with csv files, json files, excel files, textfiles, html files, sql files ... we are importing and exporting both also fetching data from Api's and fetching data using web scraping.
 
 📂 data-gathering-and-file-handling
-│
-├── working-with-files.ipynb      # Jupyter Notebook
-├── pandas-export-import.ipynb      # Jupyter Notebook
-├── api-to-dataframe.ipynb      # Jupyter Notebook
-│
-├── data/                         # Sample input files
-│   ├── Inventory-Records-Sample-Data.xlsx
-│   ├── sample.csv
-│   ├── sample.tsv
-│   ├── sample.json
-│   ├── sample.html
-│   └── sample.sql
-│
-├── output/                       # Exported/processed files
-│   ├── output.xlsx
-│   ├── clean_inventory.tsv
-│   └── combined_data.csv
-│
-└── README.md                     # Project documentation
+
+working-with-files.ipynb – Jupyter Notebook demonstrating file handling and data gathering techniques using pandas.
+
+pandas-export-import.ipynb – Notebook showing import/export of CSV, Excel, JSON, TSV, and HTML files.
+
+api-to-dataframe.ipynb – Notebook demonstrating how to fetch and convert API data into pandas DataFrames.
 
 
 🏁 Conclusion
